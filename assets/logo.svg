@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160" role="img" aria-label="LAUMOLOGY">
+  <rect width="600" height="160" rx="18" fill="#0b1220"/>
+  <g>
+    <line x1="52" y1="60" x2="52" y2="100" stroke="#16a34a" stroke-width="4"/>
+    <rect x="44" y="68" width="16" height="22" fill="#16a34a"/>
+    <line x1="84" y1="44" x2="84" y2="88" stroke="#16a34a" stroke-width="4"/>
+    <rect x="76" y="52" width="16" height="26" fill="#16a34a"/>
+    <line x1="116" y1="30" x2="116" y2="72" stroke="#dc2626" stroke-width="4"/>
+    <rect x="108" y="38" width="16" height="24" fill="#dc2626"/>
+    <line x1="148" y1="40" x2="148" y2="84" stroke="#16a34a" stroke-width="4"/>
+    <rect x="140" y="50" width="16" height="24" fill="#16a34a"/>
+    <polyline points="52,78 84,66 116,54 148,62" fill="none" stroke="#8fa0b8" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+  <text x="200" y="96" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" fill="#f8fafc" letter-spacing="2">LAUMO<tspan font-style="italic" fill="#16a34a">LOGY</tspan></text>
+  <text x="204" y="124" font-family="'Segoe UI', Arial, sans-serif" font-size="15" fill="#8fa0b8" letter-spacing="6">PRIVATE ENGINE · PUBLIC RECEIPTS</text>
+</svg>
